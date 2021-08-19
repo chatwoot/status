@@ -9,7 +9,7 @@ assignees:
   - sojan-official
 status-website:
   cname: status.chatwoot.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://chatwoot-public-assets.s3.amazonaws.com/logo/square.png
   name: Chatwoot Status
   introTitle: "This is the status page for Chatwoot."
   introMessage: This is the realtime status page for Chatwoot.
