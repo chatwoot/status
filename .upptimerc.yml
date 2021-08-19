@@ -4,17 +4,21 @@ repo: status
 sites:
   - name: Chatwoot
     url: https://app.chatwoot.com
+    icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
 assignees:
   - vishnu-narayanan
   - sojan-official
 status-website:
   cname: status.chatwoot.com
-  logoUrl: https://chatwoot-public-assets.s3.amazonaws.com/logo/square.png
+  logoUrl: https://raw.githubusercontent.com/chatwoot/status/master/assets/chatwoot-icon.png
+  favicon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
   name: Chatwoot Status
-  introTitle: "This is the status page for Chatwoot."
-  introMessage: This is the realtime status page for Chatwoot.
+  introTitle: "About this site"
+  introMessage: Welcome to Chatwoot's real-time and historical data on system performance.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Discord
+      href: https://discord.gg/cJXdrwS
