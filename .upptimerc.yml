@@ -8,9 +8,6 @@ sites:
   - name: Chatwoot Hub
     url: https://hub.2.chatwoot.com
     icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
-  - name: Chatwoot-vn Test chatwoot downtime alerts
-    url: http://144.126.254.125:3000/installation/onboarding
-    icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
 assignees:
   - vishnu-narayanan
   - sojan-official
