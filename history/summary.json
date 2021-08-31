@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 1412,
-    "timeWeek": 655,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "time": 416,
+    "timeDay": 1181,
+    "timeWeek": 619,
+    "timeMonth": 416,
+    "timeYear": 416,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 141,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 170,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Chatwoot-vn Test chatwoot downtime alerts",
-    "url": "http://144.126.254.125:3000/installation/onboarding",
-    "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
-    "slug": "chatwoot-vn-test-chatwoot-downtime-alerts",
-    "status": "down",
-    "uptime": "96.48%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "96.48%",
-    "time": 464,
-    "timeDay": 464,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
-    "dailyMinutesDown": {
-      "2021-08-31": 0
-    }
   }
 ]
