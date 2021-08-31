@@ -40,17 +40,19 @@
     "url": "http://144.126.254.125:3000/installation/onboarding",
     "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
     "slug": "chatwoot-vn-test-chatwoot-downtime-alerts",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "96.48%",
     "time": 464,
     "timeDay": 464,
     "timeWeek": 464,
     "timeMonth": 464,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-31": 0
+    }
   }
 ]
