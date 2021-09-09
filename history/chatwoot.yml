@@ -1,7 +1,7 @@
 url: https://app.chatwoot.com
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2021-09-09T09:33:25.734Z
+status: up
+code: 200
+responseTime: 24511
+lastUpdated: 2021-09-09T10:23:12.687Z
 startTime: Thu Aug 19 2021 12:12:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
