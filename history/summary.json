@@ -4,17 +4,17 @@
     "url": "https://app.chatwoot.com",
     "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
     "slug": "chatwoot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "94.57%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
-    "time": 1031,
-    "timeDay": 3701,
-    "timeWeek": 2065,
-    "timeMonth": 1031,
-    "timeYear": 1031,
+    "time": 1340,
+    "timeDay": 4721,
+    "timeWeek": 2765,
+    "timeMonth": 1340,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2021-09-09": 78
     }
