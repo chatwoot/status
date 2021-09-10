@@ -6,15 +6,15 @@
     "slug": "chatwoot",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "94.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 1849,
-    "timeDay": 6559,
-    "timeWeek": 4007,
-    "timeMonth": 1849,
-    "timeYear": 1849,
+    "time": 1762,
+    "timeDay": 8324,
+    "timeWeek": 3554,
+    "timeMonth": 1762,
+    "timeYear": 1762,
     "dailyMinutesDown": {
       "2021-09-09": 78
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 106,
-    "timeWeek": 162,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 149,
+    "timeDay": 123,
+    "timeWeek": 155,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   }
 ]
