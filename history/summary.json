@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
     "slug": "chatwoot",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1649,
-    "timeDay": 261,
-    "timeWeek": 3371,
-    "timeMonth": 1649,
-    "timeYear": 1649,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1616,
+    "timeDay": 239,
+    "timeWeek": 3378,
+    "timeMonth": 1616,
+    "timeYear": 1616,
     "dailyMinutesDown": {
       "2021-09-09": 78
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 254,
-    "timeWeek": 162,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 149,
+    "timeDay": 178,
+    "timeWeek": 167,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   }
 ]
