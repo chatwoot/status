@@ -4,7 +4,7 @@
     "url": "https://app.chatwoot.com",
     "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
     "slug": "chatwoot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
@@ -16,6 +16,7 @@
     "timeMonth": 212,
     "timeYear": 714,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2022-02-24": 36,
       "2022-02-23": 19,
       "2022-02-18": 326,
