@@ -6,17 +6,16 @@
     "slug": "chatwoot",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 609,
-    "timeDay": 2538,
-    "timeWeek": 947,
-    "timeMonth": 656,
-    "timeYear": 702,
+    "timeDay": 2404,
+    "timeWeek": 918,
+    "timeMonth": 647,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2023-02-22": 10,
       "2023-01-10": 16,
       "2022-12-16": 15,
       "2022-10-06": 32,
@@ -26,8 +25,7 @@
       "2022-03-25": 50,
       "2022-03-19": 23,
       "2022-03-16": 17,
-      "2022-02-24": 36,
-      "2022-02-23": 19
+      "2022-02-24": 36
     }
   },
   {
@@ -42,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 257,
-    "timeWeek": 198,
-    "timeMonth": 196,
+    "timeDay": 94,
+    "timeWeek": 180,
+    "timeMonth": 193,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2022-11-13": 19
