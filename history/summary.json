@@ -6,9 +6,9 @@
     "slug": "chatwoot",
     "status": "degraded",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 857,
     "timeDay": 4098,
@@ -16,7 +16,7 @@
     "timeMonth": 650,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-10-08": 0,
+      "2024-10-08": 6,
       "2024-08-30": 15,
       "2024-01-19": 16
     }
