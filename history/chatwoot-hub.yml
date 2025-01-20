@@ -1,7 +1,7 @@
 url: https://hub.2.chatwoot.com
-status: up
+status: degraded
 code: 200
-responseTime: 173
-lastUpdated: 2025-01-19T23:00:45.242Z
+responseTime: 12628
+lastUpdated: 2025-01-20T12:00:53.368Z
 startTime: 2021-08-31T14:03:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
