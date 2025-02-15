@@ -5,6 +5,8 @@ sites:
   - name: Chatwoot
     url: https://app.chatwoot.com
     maxResponseTime: 2000
+    headers:
+      - "Content-Type: text/html"
     icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
   - name: Chatwoot Hub
     url: https://hub.2.chatwoot.com
