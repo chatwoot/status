@@ -1,7 +1,7 @@
-url: https://app.chatwoot.com
-status: down
-code: 406
-responseTime: 425
-lastUpdated: 2025-02-15T17:36:21.855Z
+url: https://app.chatwoot.com/api
+status: up
+code: 200
+responseTime: 128
+lastUpdated: 2025-02-15T17:42:12.595Z
 startTime: 2021-08-19T12:12:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
