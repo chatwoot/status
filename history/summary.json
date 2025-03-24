@@ -4,18 +4,19 @@
     "url": "https://app.chatwoot.com/api",
     "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
     "slug": "chatwoot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 461,
+    "time": 462,
     "timeDay": 217,
     "timeWeek": 189,
     "timeMonth": 190,
     "timeYear": 402,
     "dailyMinutesDown": {
+      "2025-03-24": 0,
       "2024-10-08": 81,
       "2024-08-30": 15
     }
