@@ -28,11 +28,11 @@
     "url": "https://hub.2.chatwoot.com",
     "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
     "slug": "chatwoot-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 547,
     "timeDay": 250,
@@ -40,7 +40,7 @@
     "timeMonth": 1477,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-08-25": 15,
+      "2025-08-25": 0,
       "2024-11-24": 38,
       "2024-09-02": 43
     }
