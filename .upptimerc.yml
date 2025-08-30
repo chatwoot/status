@@ -6,10 +6,6 @@ sites:
     url: https://app.chatwoot.com/api
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
-  - name: Chatwoot Hub
-    url: https://hub.2.chatwoot.com
-    maxResponseTime: 2000
-    icon: https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico
 assignees:
   - vishnu-narayanan
   - sojan-official
