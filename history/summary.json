@@ -11,38 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 423,
-    "timeDay": 232,
-    "timeWeek": 256,
-    "timeMonth": 264,
-    "timeYear": 384,
+    "timeDay": 226,
+    "timeWeek": 251,
+    "timeMonth": 263,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-07-21": 18,
       "2025-06-11": 779,
       "2025-06-10": 748,
       "2024-10-08": 81
-    }
-  },
-  {
-    "name": "Chatwoot Hub",
-    "url": "https://hub.2.chatwoot.com",
-    "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
-    "slug": "chatwoot-hub",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
-    "time": 556,
-    "timeDay": 279,
-    "timeWeek": 232,
-    "timeMonth": 830,
-    "timeYear": 674,
-    "dailyMinutesDown": {
-      "2025-08-30": 12,
-      "2025-08-25": 17,
-      "2024-11-24": 38,
-      "2024-09-02": 43
     }
   }
 ]
