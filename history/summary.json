@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 423,
-    "timeDay": 179,
-    "timeWeek": 265,
-    "timeMonth": 268,
+    "timeDay": 232,
+    "timeWeek": 256,
+    "timeMonth": 264,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-07-21": 18,
       "2025-06-11": 779,
       "2025-06-10": 748,
-      "2024-10-08": 81,
-      "2024-08-30": 15
+      "2024-10-08": 81
     }
   },
   {
@@ -30,17 +29,16 @@
     "slug": "chatwoot-hub",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 555,
-    "timeDay": 299,
-    "timeWeek": 227,
-    "timeMonth": 845,
+    "timeDay": 279,
+    "timeWeek": 230,
+    "timeMonth": 841,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-08-29": 6,
       "2025-08-25": 17,
       "2024-11-24": 38,
       "2024-09-02": 43
