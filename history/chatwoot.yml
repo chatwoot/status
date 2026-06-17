@@ -1,7 +1,7 @@
 url: https://app.chatwoot.com/api
-status: up
+status: degraded
 code: 200
-responseTime: 881
-lastUpdated: 2026-06-17T10:21:49.386Z
+responseTime: 15608
+lastUpdated: 2026-06-17T10:32:26.666Z
 startTime: 2021-08-19T12:12:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
