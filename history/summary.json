@@ -6,18 +6,17 @@
     "slug": "chatwoot",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 4334,
-    "timeWeek": 1847,
-    "timeMonth": 675,
+    "time": 349,
+    "timeDay": 3534,
+    "timeWeek": 1713,
+    "timeMonth": 665,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-07-21": 18,
-      "2026-06-17": 7
+      "2025-07-21": 18
     }
   }
 ]
